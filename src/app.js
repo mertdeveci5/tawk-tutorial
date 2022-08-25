@@ -1,5 +1,5 @@
-import { Tawk } from './Tawk';
+import { StashWidget } from "./StashWidget";
 
-const tawk = new Tawk({
-    position: 'bottom-right',
+const stashWidget = new StashWidget({
+  position: "bottom-right",
 });
